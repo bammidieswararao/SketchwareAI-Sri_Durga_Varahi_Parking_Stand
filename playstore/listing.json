@@ -1,0 +1,12 @@
+{
+  "title": "Sri Durga Varahi Parking Stand",
+  "description": "",
+  "made_with": "Sketchware AI",
+  "publish_number": 1,
+  "published_at": 1795265839822,
+  "version_name": "1.9.0",
+  "version_code": "19",
+  "action": "published",
+  "changelog": "## Sri Durga Varahi Parking Stand v1.9.0 (19): first release\n\n- **6 screens**: CompletedaysActivity.java, LoginspageActivity.java, MainActivity.java, OuttimeGeneralActivity.java, UsernameActivity.java, VerifiedActivity.java\n- 112 widgets, 1227 logic blocks, 20 MoreBlocks, 154 variables\n- Widgets: 23 TextView, 20 LinearLayout, 17 CardView, 16 EditText, 15 TextInputLayout, 6 Button, 5 ImageView, 4 ScrollView, 2 CheckBox, 2 ListView and 2 more\n- Custom views: custom_list.xml, mstlist.xml, login_page.xml\n- Components: Bluetooth, Calendar, Dialog, File Picker, Intent, Location, RequestNetwork, SharedPreferences, TextToSpeech\n- Libraries: AppCompat \u0026 Material, Google Maps, ESCPOS-ThermalPrinter-Android 3.3.0\n- Permissions: WRITE_EXTERNAL_STORAGE, READ_EXTERNAL_STORAGE, MANAGE_EXTERNAL_STORAGE, INTERNET, READ_PRINT_SERVICES, READ_PRINT_SERVICE_RECOMMENDATIONS, BLUETOOTH, BLUETOOTH_ADMIN, BLUETOOTH_ADVERTISE, BLUETOOTH_CONNECT, BLUETOOTH_MAP, BLUETOOTH_PRIVILEGED and 15 more\n- Android 5.0 (API 21) to 9 (API 28)",
+  "stats_discussion": 1
+}
